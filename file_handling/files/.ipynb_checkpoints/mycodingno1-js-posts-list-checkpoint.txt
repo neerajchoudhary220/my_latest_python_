@@ -1,0 +1,48 @@
+Convert Csv file into Json
+https://mycodingno1.blogspot.com/2023/09/convert-csv-file-into-json.html
+Replace character after specific text
+https://mycodingno1.blogspot.com/2022/03/replace-character-after-specific-text.html
+Change dropdown select option using other button click
+https://mycodingno1.blogspot.com/2023/08/change-dropdown-select-option-using.html
+Search array element jquery and js
+https://mycodingno1.blogspot.com/2023/06/document-search-fruitlist.html
+How to make the first option of selected with jQuery
+https://mycodingno1.blogspot.com/2023/06/select-id-firstselect-option-selected.html
+Use this inside the onclick js and jquery
+https://mycodingno1.blogspot.com/2023/05/use-this-inside-onclick-js-and-jquery.html
+Count total checked checkkbox
+https://mycodingno1.blogspot.com/2023/03/count-total-checked-checkkbox.html
+Use jQuery to hide a DIV when the user clicks outside of it
+https://mycodingno1.blogspot.com/2023/03/use-jquery-to-hide-div-when-user-clicks.html
+Get selected and chekcked with jquery
+https://mycodingno1.blogspot.com/2023/01/get-selected-and-chekcked-with-jquery.html
+Getting text of html code which is written by jquery html function
+https://mycodingno1.blogspot.com/2022/09/getting-text-of-html-code-which-is.html
+Send ajax request in laravel blade template using jquery
+https://mycodingno1.blogspot.com/2022/09/send-ajax-request-in-laravel-blade.html
+Replace character after specific text
+https://mycodingno1.blogspot.com/2022/03/replace-character-after-specific-text.html
+Refresh Current page by js
+https://mycodingno1.blogspot.com/2022/02/refresh-current-page-by-js.html
+Copy Text by using jquery
+https://mycodingno1.blogspot.com/2022/01/copy-text-by-using-jquery.html
+Device detector by javascript
+https://mycodingno1.blogspot.com/2021/03/device-detector-by-javascript.html
+detect height and width of current screenh
+https://mycodingno1.blogspot.com/2021/02/detect-height-and-width-of-current.html
+Outer Html code example
+https://mycodingno1.blogspot.com/2021/02/outer-html-code-example.html
+Detect google chrome by javascript
+https://mycodingno1.blogspot.com/2021/02/detect-google-chrome-by-javascript.html
+Display current time by javascript
+https://mycodingno1.blogspot.com/2021/01/display-current-time-by-javascript.html
+Print any web page by javascript button
+https://mycodingno1.blogspot.com/2021/01/print-any-web-page-by-javascript-button.html
+Drop down button or Menu
+https://mycodingno1.blogspot.com/2021/01/drop-down-button-or-menu.html
+Random Number by javascript
+https://mycodingno1.blogspot.com/2020/12/random-number-by-javascript.html
+Mouse Cursor Position By javascript and HTML
+https://mycodingno1.blogspot.com/2020/12/mouse-cursor-position-by-javascript-and.html
+Clock Time Difference Method by javascript.
+https://mycodingno1.blogspot.com/2020/12/clock-time-difference-method-by.html
