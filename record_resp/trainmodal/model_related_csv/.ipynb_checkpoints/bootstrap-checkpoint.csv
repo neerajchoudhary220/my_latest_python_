@@ -1,0 +1,58 @@
+question,label_id,label
+bootstrap sm buttons,1,button
+write bootstrap about button,1,button
+write bootstrap large button,1,button
+tell bootstrap large btn,1,button
+tell bootstrap about btn,1,button
+tell bootstrap xl buttons,1,button
+write bootstrap md button,1,button
+bootstrap extra large button btn,1,button
+bootstrap md button,1,button
+tell bootstrap xl btn,1,button
+write bootstrap xl btn,1,button
+bootstrap xl button,1,button
+write bootstrap large modal,2,model
+write bootstrap sm modals,2,model
+bootstrap sm model,2,model
+write bootstrap xl modal,2,model
+tell bootstrap lx model,2,model
+tell bootstrap md modals,2,model
+tell bootstrap sm modals,2,model
+bootstrap large model,2,model
+bootstrap small modals,2,model
+tell bootstrap about modal,2,model
+tell bootstrap all modal,2,model
+write bootstrap about modal,2,model
+write bootstrap  card,3,card
+bootstrap  cards,3,card
+bootstrap5  card,3,card
+bootstrap4  card,3,card
+tell bootstrap  card,3,card
+tell bootstrap  cards,3,card
+tell bootstrap all colors,4,color
+bootstrap5 success colors,4,color
+bootstrap success color,4,color
+bootstrap4 blue colors,4,color
+write bootstrap warning colors,4,color
+bootstrap danger color,4,color
+bootstrap blue color,4,color
+bootstrap5 danger color,4,color
+bootstrap blue colors,4,color
+tell bootstrap info color,4,color
+write bootstrap all color,4,color
+tell bootstrap blue color,4,color
+write bootstrap red color,4,color
+bootstrap5 all badge,5,badge
+bootstrap danger badge,5,badge
+bootstrap5 blue badge,5,badge
+tell bootstrap info badge,5,badge
+bootstrap large badge,5,badge
+tell bootstrap success badge,5,badge
+write bootstrap blue badge,5,badge
+tell bootstrap red badge,5,badge
+write bootstrap warning badge,5,badge
+bootstrap warning badge,5,badge
+bootstrap info badge,5,badge
+bootstrap red badge,5,badge
+tell bootstrap large badge,5,badge
+write bootstrap all badge,5,badge

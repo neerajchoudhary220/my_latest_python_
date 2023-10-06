@@ -1,0 +1,42 @@
+{
+    "labels":{
+        "button":{
+            "label_id":1,
+            "names":["write bootstrap","bootstrap","tell bootstrap"],
+            "verbs":["about","all","large","xl","sm","md","extra large button"],
+            "noun":["button","btn","buttons"]
+        },
+    "model":{
+            "label_id":2,
+            "names":["write bootstrap","bootstrap","tell bootstrap"],
+            "verbs":["about","all","lx","xl","lg","sm","md","small","large"],
+            "noun":["modal","model","modals"]
+        },
+     "card":{
+            "label_id":3,
+            "names":["write bootstrap","bootstrap","tell bootstrap","bootstrap4","bootstrap5"],
+            "verbs":[""],
+            "noun":["card","cards"]
+        },
+    "color":{
+            "label_id":4,
+            "names":["write bootstrap","bootstrap","tell bootstrap","bootstrap4","bootstrap5"],
+            "verbs":["info","success","all","warning","blue","danger","red"],
+            "noun":["color","colors"]
+        },
+
+    "badge":{
+        "label_id":5,
+        "names":["write bootstrap","bootstrap","tell bootstrap","bootstrap4","bootstrap5"],
+        "verbs":["info","success","all","warning","blue","danger","red","xl","large","small"],
+        "noun":["badge","badge"]
+    },
+    "button_list":{
+        "label_id":6,
+        "names":["write bootstrap","bootstrap","tell bootstrap","bootstrap4","bootstrap5"],
+        "verbs":["All","all","whole"],
+        "noun":["btn list","list of button","buttons","button list"]
+    }
+
+     }
+}

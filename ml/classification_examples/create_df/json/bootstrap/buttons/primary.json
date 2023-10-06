@@ -1,0 +1,110 @@
+{
+    "labels": {
+        "simple": {
+            "label_id": 1,
+            "names": [
+                "write bootstrap",
+                "bootstrap",
+                ""
+            ],
+            "verbs": [
+                "about primary",
+                "blue",
+                "primary"
+            ],
+            "noun": [
+                "button",
+                "btn"
+            ]
+        },
+        "sm": {
+            "label_id": 2,
+            "names": [
+                "write bootstrap",
+                "bootstrap",
+                ""
+            ],
+            "verbs": [
+                "about primary",
+                "blue",
+                "primary"
+            ],
+            "noun": [
+                "sm button",
+                "sm btn",
+                "small button",
+                "sm button",
+                "small btn",
+                "sm-btn",
+                "btn-sm",
+                "button small"
+            ]
+        },
+        "sm_outline": {
+            "label_id": 3,
+            "names": [
+                "write bootstrap",
+                "bootstrap",
+                ""
+            ],
+            "verbs": [
+                "about primary",
+                "blue",
+                "primary"
+            ],
+            "noun": [
+                "outline sm button",
+                " outline sm btn",
+                " outline small button",
+                "outline sm button",
+                "outline small btn",
+                "sm-btn-outline",
+                "outline sm-btn",
+                "outline btn small",
+                "outlien button small"
+            ]
+        },
+        "lg": {
+            "label_id": 4,
+            "names": [
+                "write bootstrap",
+                "bootstrap",
+                ""
+            ],
+            "verbs": [
+                "about primary",
+                "blue",
+                "primary"
+            ],
+            "noun": [
+                "lg button",
+                "lg btn",
+                "large button",
+                "lg button",
+                "large btn",
+                "lg-btn"
+            ]
+        },
+        "outline_lg": {
+            "label_id": 5,
+            "names": [
+                "write bootstrap",
+                "bootstrap",
+                ""
+            ],
+            "verbs": [
+                "about primary",
+                "blue",
+                "primary"
+            ],
+            "noun": [
+                "lg outline button",
+                "lg  outline btn",
+                "large outline button",
+                "lg outline button",
+                "large outline btn",
+                "lg-btn-outline"
+            ]
+        }
+    }
+}

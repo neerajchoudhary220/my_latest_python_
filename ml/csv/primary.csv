@@ -1,0 +1,57 @@
+question,label_id,label
+bootstrap about primary btn,1,simple
+write bootstrap blue btn,1,simple
+bootstrap primary btn,1,simple
+write bootstrap primary button,1,simple
+write bootstrap about primary btn,1,simple
+write bootstrap primary btn,1,simple
+bootstrap blue button,1,simple
+write bootstrap primary small button,2,sm
+ primary small button,2,sm
+bootstrap about primary btn-sm,2,sm
+write bootstrap about primary sm button,2,sm
+ primary sm button,2,sm
+ about primary small btn,2,sm
+write bootstrap primary sm-btn,2,sm
+ about primary button small,2,sm
+write bootstrap about primary btn-sm,2,sm
+ about primary sm btn,2,sm
+write bootstrap primary button small,2,sm
+ about primary sm button,2,sm
+write bootstrap primary  outline sm btn,3,sm_outline
+ blue outlien button small,3,sm_outline
+write bootstrap about primary  outline sm btn,3,sm_outline
+write bootstrap blue outlien button small,3,sm_outline
+bootstrap primary outline sm-btn,3,sm_outline
+write bootstrap about primary outline small btn,3,sm_outline
+bootstrap primary  outline sm btn,3,sm_outline
+ blue outline sm-btn,3,sm_outline
+bootstrap blue outline btn small,3,sm_outline
+write bootstrap primary sm-btn-outline,3,sm_outline
+bootstrap primary  outline small button,3,sm_outline
+ blue sm-btn-outline,3,sm_outline
+ blue outline sm button,3,sm_outline
+bootstrap about primary  outline sm btn,3,sm_outline
+write bootstrap primary lg btn,4,lg
+bootstrap primary large button,4,lg
+bootstrap blue lg btn,4,lg
+ blue lg btn,4,lg
+bootstrap about primary lg-btn,4,lg
+bootstrap about primary lg button,4,lg
+ primary large btn,4,lg
+write bootstrap about primary lg button,4,lg
+write bootstrap about primary lg btn,4,lg
+ primary large button,4,lg
+bootstrap primary large btn,4,lg
+ primary large outline button,5,outline_lg
+ primary lg  outline btn,5,outline_lg
+ primary lg-btn-outline,5,outline_lg
+bootstrap primary large outline button,5,outline_lg
+ about primary lg outline button,5,outline_lg
+ blue large outline btn,5,outline_lg
+bootstrap primary lg outline button,5,outline_lg
+bootstrap blue lg outline button,5,outline_lg
+ primary large outline btn,5,outline_lg
+bootstrap about primary large outline btn,5,outline_lg
+ about primary large outline btn,5,outline_lg
+ blue lg-btn-outline,5,outline_lg
