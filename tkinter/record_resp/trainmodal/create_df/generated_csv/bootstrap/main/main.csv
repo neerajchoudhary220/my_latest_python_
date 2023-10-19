@@ -1,0 +1,142 @@
+question,label_id,label
+tell bootstrap xl button,1,button
+write bootstrap sm btn,1,button
+tell bootstrap about buttons,1,button
+write bootstrap about btn,1,button
+bootstrap sm buttons,1,button
+bootstrap xl buttons,1,button
+tell bootstrap about btn,1,button
+write bootstrap xl btn,1,button
+bootstrap large btn,1,button
+bootstrap xl button,1,button
+bootstrap sm btn,1,button
+tell bootstrap about button,1,button
+tell bootstrap about buttons,1,button
+write bootstrap xl button,1,button
+write bootstrap sm button,1,button
+bootstrap md button,1,button
+tell bootstrap md btn,1,button
+write bootstrap about buttons,1,button
+tell bootstrap extra large button btn,1,button
+bootstrap extra large button buttons,1,button
+bootstrap all btn,1,button
+tell bootstrap all btn,1,button
+bootstrap all button,1,button
+write bootstrap xl btn,1,button
+write bootstrap about button,1,button
+bootstrap sm btn,1,button
+bootstrap lx model,2,model
+write bootstrap lx modals,2,model
+tell bootstrap small modal,2,model
+bootstrap large modal,2,model
+write bootstrap lx modal,2,model
+bootstrap small modals,2,model
+bootstrap sm modal,2,model
+bootstrap large model,2,model
+tell bootstrap large modals,2,model
+write bootstrap small modals,2,model
+write bootstrap about modal,2,model
+tell bootstrap lg modals,2,model
+write bootstrap md modal,2,model
+write bootstrap xl modals,2,model
+bootstrap lg modal,2,model
+write bootstrap large modal,2,model
+write bootstrap md model,2,model
+write bootstrap xl model,2,model
+bootstrap all model,2,model
+tell bootstrap all model,2,model
+bootstrap large model,2,model
+bootstrap lx modals,2,model
+write bootstrap lx modals,2,model
+write bootstrap large model,2,model
+write bootstrap xl modal,2,model
+write bootstrap sm modals,2,model
+bootstrap5  cards,3,card
+bootstrap  cards,3,card
+bootstrap5  cards,3,card
+bootstrap  card,3,card
+bootstrap4  cards,3,card
+write bootstrap  cards,3,card
+bootstrap  card,3,card
+write bootstrap  cards,3,card
+tell bootstrap  card,3,card
+bootstrap4  cards,3,card
+bootstrap all colors,4,color
+write bootstrap info colors,4,color
+bootstrap warning colors,4,color
+bootstrap4 all colors,4,color
+bootstrap all colors,4,color
+bootstrap danger color,4,color
+tell bootstrap danger color,4,color
+write bootstrap info color,4,color
+bootstrap4 warning colors,4,color
+bootstrap success colors,4,color
+tell bootstrap all colors,4,color
+bootstrap blue color,4,color
+bootstrap5 all colors,4,color
+bootstrap4 danger colors,4,color
+write bootstrap all color,4,color
+tell bootstrap red color,4,color
+bootstrap5 danger colors,4,color
+bootstrap4 success colors,4,color
+write bootstrap success colors,4,color
+bootstrap5 red colors,4,color
+tell bootstrap info color,4,color
+tell bootstrap blue color,4,color
+tell bootstrap success color,4,color
+bootstrap4 success color,4,color
+bootstrap info color,4,color
+bootstrap red color,4,color
+write bootstrap red badge,5,badge
+bootstrap success badge,5,badge
+write bootstrap xl badge,5,badge
+bootstrap5 red badge,5,badge
+bootstrap5 large badge,5,badge
+bootstrap all badge,5,badge
+write bootstrap small badge,5,badge
+bootstrap danger badge,5,badge
+bootstrap large badge,5,badge
+bootstrap5 red badge,5,badge
+bootstrap5 warning badge,5,badge
+bootstrap5 all badge,5,badge
+bootstrap small badge,5,badge
+tell bootstrap xl badge,5,badge
+write bootstrap blue badge,5,badge
+bootstrap4 success badge,5,badge
+write bootstrap info badge,5,badge
+bootstrap5 blue badge,5,badge
+bootstrap5 warning badge,5,badge
+tell bootstrap warning badge,5,badge
+bootstrap warning badge,5,badge
+bootstrap blue badge,5,badge
+bootstrap5 danger badge,5,badge
+write bootstrap all badge,5,badge
+write bootstrap info badge,5,badge
+bootstrap info badge,5,badge
+bootstrap5 xl badge,5,badge
+bootstrap5 all badge,5,badge
+bootstrap5 info badge,5,badge
+bootstrap all buttons,6,button_list
+write bootstrap All btn list,6,button_list
+bootstrap5 whole list of button,6,button_list
+write bootstrap all button list,6,button_list
+bootstrap4 whole buttons,6,button_list
+bootstrap All buttons,6,button_list
+bootstrap  btn list,6,button_list
+bootstrap5  button list,6,button_list
+bootstrap all button list,6,button_list
+bootstrap4 whole btn list,6,button_list
+bootstrap5 all buttons,6,button_list
+tell bootstrap all buttons,6,button_list
+bootstrap whole btn list,6,button_list
+tell bootstrap All button list,6,button_list
+tell bootstrap whole list of button,6,button_list
+tell bootstrap all btn list,6,button_list
+bootstrap5 whole list of button,6,button_list
+tell bootstrap whole buttons,6,button_list
+write bootstrap All buttons,6,button_list
+bootstrap all buttons,6,button_list
+bootstrap whole list of button,6,button_list
+write bootstrap All list of button,6,button_list
+bootstrap5 All button list,6,button_list
+bootstrap All button list,6,button_list
